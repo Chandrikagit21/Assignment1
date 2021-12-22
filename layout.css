@@ -1,0 +1,35 @@
+.all{
+    border-style:groove ;
+}
+.cl1{
+    display: flex;
+    /*border-style: groove;
+    border-color: grey;*/
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 25px;
+   
+}
+.c1,.c2,.c3,.c4{
+   justify-content: space-evenly;
+   padding-left: 250px;
+}
+button{
+    background-color: aqua;
+    color: blue;
+   border-radius: 70%;
+}
+.cl2{
+    display: flex;
+    /*border-style: double;
+    border-color: cornflowerblue;*/
+}
+.c5{
+    background-color: crimson;
+  text-align: center;
+  margin-right: 325px;
+   margin-left: 100px;
+}
+.c6{
+   margin-right: 225px;  
+}
